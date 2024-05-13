@@ -1,0 +1,6 @@
+@ClashAPI_HostAddress = http://localhost:5298
+
+GET {{ClashAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

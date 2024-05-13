@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmFUZXHvhD9B07guOvgv2Lqdh5uJy1mZGI+SNq4O13AsqsAGaSFisleckyetoXQHaHkEtTnWADBY0L3RNw70lw==",
+  "success": true,
+  "projectFilePath": "/Users/coleflannery/clash/clashapi/ClashAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/coleflannery/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/coleflannery/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/coleflannery/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/coleflannery/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/coleflannery/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/coleflannery/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
