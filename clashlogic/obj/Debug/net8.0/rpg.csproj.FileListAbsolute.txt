@@ -1,0 +1,14 @@
+/Users/coleflannery/rpg/obj/Debug/net8.0/rpg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coleflannery/rpg/obj/Debug/net8.0/rpg.AssemblyInfoInputs.cache
+/Users/coleflannery/rpg/obj/Debug/net8.0/rpg.AssemblyInfo.cs
+/Users/coleflannery/rpg/obj/Debug/net8.0/rpg.csproj.CoreCompileInputs.cache
+/Users/coleflannery/rpg/bin/Debug/net8.0/rpg
+/Users/coleflannery/rpg/bin/Debug/net8.0/rpg.deps.json
+/Users/coleflannery/rpg/bin/Debug/net8.0/rpg.runtimeconfig.json
+/Users/coleflannery/rpg/bin/Debug/net8.0/rpg.dll
+/Users/coleflannery/rpg/bin/Debug/net8.0/rpg.pdb
+/Users/coleflannery/rpg/obj/Debug/net8.0/rpg.dll
+/Users/coleflannery/rpg/obj/Debug/net8.0/refint/rpg.dll
+/Users/coleflannery/rpg/obj/Debug/net8.0/rpg.pdb
+/Users/coleflannery/rpg/obj/Debug/net8.0/rpg.genruntimeconfig.cache
+/Users/coleflannery/rpg/obj/Debug/net8.0/ref/rpg.dll
