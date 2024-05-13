@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClashAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d9c87d81ef259646040940b074de644fe88123")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d08cbbf606941e6ef00ac050c3df341714aa6fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClashAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClashAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
